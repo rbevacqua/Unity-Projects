@@ -28,7 +28,8 @@ Defeat an infinite horde of enemy ships to earn points and survive as long as yo
 - Make sure your phone security setting for installation of apps from other sources than the play store is turned on, also make sure that play protect is turned off (usually causes problems with unkown applications), you can do this through the play store in the side menu
 - Download the Galaxy_Shooter.apk file to your android device 
 - Open the .apk file to start the installation of the Galaxy Shooter application
-*Note: the minimum Android version required is 4.3 to run this application. Also make*
+
+*Note: the minimum Android version required is 4.3 to run this application.*
 
 ##### Controls
 - Accelerometer/Tilt -> Player Movement
